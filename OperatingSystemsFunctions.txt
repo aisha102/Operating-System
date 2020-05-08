@@ -1,0 +1,4 @@
+MacOS
+Apps are already preinstalled in Mac devices. 
+It has multitasking features.
+ It is less vulnerable to malware as compared to other operating systems. 
