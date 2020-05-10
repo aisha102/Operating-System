@@ -2,3 +2,10 @@ MacOS
 Apps are already preinstalled in Mac devices. 
 It has multitasking features.
  It is less vulnerable to malware as compared to other operating systems. 
+ Although it has many advantages but is a bit expensive than other operating systems.
+ 
+ Windows operating system
+ Windows is an operating system developed by Microsoft.
+ A large selection of Windows software is available. 
+Windows offers backwards compatibility.
+Till now it is the most widely used operating system.
