@@ -4,8 +4,13 @@ It has multitasking features.
  It is less vulnerable to malware as compared to other operating systems. 
  Although it has many advantages but is a bit expensive than other operating systems.
  
- Windows operating system
+ Windows 
  Windows is an operating system developed by Microsoft.
  A large selection of Windows software is available. 
 Windows offers backwards compatibility.
 Till now it is the most widely used operating system.
+
+Linux
+It is also contributed as the best and open source operating system. 
+Open source means that for any program or software the acess code is available to the general public to make any change or modify.The main difference between Linux and other operating systems is that Linux kernal and other parts are free.
+Android is run by Linux operating system.
